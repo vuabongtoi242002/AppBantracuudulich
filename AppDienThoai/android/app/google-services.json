@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199216837573",
+    "project_id": "manhapp-68c3e",
+    "storage_bucket": "manhapp-68c3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199216837573:android:6bd256868d696a246cd1ac",
+        "android_client_info": {
+          "package_name": "com.example.manh_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaqZ0dnrxSzZOIilUWYq4uMIVzrQG1Qe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199216837573:android:0a524a625b0e83676cd1ac",
+        "android_client_info": {
+          "package_name": "com.example.manh_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaqZ0dnrxSzZOIilUWYq4uMIVzrQG1Qe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
